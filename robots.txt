@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ethanreg004.github.io/mulebuy-spreadsheet-parcel-math/sitemap.xml
